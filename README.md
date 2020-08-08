@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Machine Learning, Python Development
 - 🌱 I’m currently learning Data Mining, Cloud Computing, Docker
 - 👯 I’m looking to collaborate on Machine Learning Projects
-- 🤔 I’m looking for help with Computer Vision, Deep Learning
+- 🤔 I’m looking for help with Computer Vision, Deep Learning, Flutter
 - 💬 Ask me about Data Structures, Algorithms, Computer Networks, Operating Systems, Python, CPP, Terminal
 - 📫 How to reach me: ani10sh@gmail.com
 <!-- - 😄 Pronouns: ...
