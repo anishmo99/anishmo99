@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub! 💙
 
 <!--
 **anishmo99/anishmo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Data Mining, Cloud Computing, Docker
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🤔 I’m looking for help with Computer Vision, Deep Learning
-- 💬 Ask me about Data Structures, Algorithms, Computer Networks, Operating Systems, Python, CPP 
+- 💬 Ask me about Data Structures, Algorithms, Computer Networks, Operating Systems, Python, CPP, Terminal
 - 📫 How to reach me: ani10sh@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
