@@ -14,5 +14,5 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anish's github stats](https://github-readme-stats.vercel.app/api?username=anishmo99&show_icons=true)
+![Anish's github stats](https://github-readme-stats.vercel.app/api?username=anishmo99&show_icons=true&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishmo99&layout=compact)](https://github.com/anishmo99/github-readme-stats)
