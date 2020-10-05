@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 💬 Ask me about Data Structures, Algorithms, Computer Networks, Operating Systems, Database, Python, CPP, Zsh
 - 📫 How to reach me: ani10sh@gmail.com
-<!-- - 🤔 I’m looking for help with Flutter
+- 🤔 I’m looking for help with Flutter
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ...
 -->
