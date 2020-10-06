@@ -1,16 +1,16 @@
 ### Welcome to my GitHub! 💙
-
 <!--
 **anishmo99/anishmo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Machine Learning, Deep Learning, Python Development, Cloud Computing
-- 🌱 I’m currently learning Data Mining, Flutter
+- 🌱 I’m currently learning Data Mining, Flutter, Competitive Programming
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 💬 Ask me about Data Structures, Algorithms, Computer Networks, Operating Systems, Database, Python, CPP, Zsh
-- 📫 How to reach me: ani10sh@gmail.com
 - 🤔 I’m looking for help with Flutter
+- 📫 How to reach me: ani10sh@gmail.com
+
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ...
 -->
