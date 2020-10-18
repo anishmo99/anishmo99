@@ -5,7 +5,7 @@
 <!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Machine Learning, Deep Learning, Python Development, Cloud Computing
-- 🌱 I’m currently learning Data Mining, Flutter, Competitive Programming
+- 🌱 I’m currently learning Transfer Learning, Data Mining, Flutter, Competitive Programming
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 💬 Ask me about Data Structures, Algorithms, Computer Networks, Operating Systems, Database, Python, CPP, Zsh
 - 🤔 I’m looking for help with Flutter
